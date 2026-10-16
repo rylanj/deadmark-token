@@ -1,7 +1,15 @@
 {
-	"name": "Test Deadmark",
-	"symbol": "tDMRK",
-	"description": "Test Deadmark",
+	"name": "Deadmark",
+	"symbol": "DMRK",
+	"description": "The native token for Deadtiles - Survive the zombie apocalypse in a procedurally generated world. Multiplayer chaos, scavenging & survival on Solana. The new world is waiting.",
 	"image": "https://raw.githubusercontent.com/rylanj/deadmark-token/refs/heads/main/deadmark-logo.png",
-	"website": "https://play.deadtiles.com"
+	"website": "https://deadtiles.com",
+	"twitter": "https://x.com/deadtiles",
+	"telegram": "https://t.me/deadtiles",
+	"external_url": "https://deadtiles.com",
+	"extensions": {
+		"website": "https://deadtiles.com",
+		"twitter": "https://x.com/deadtiles",
+		"telegram": "https://t.me/deadtiles"
+	},
 }
